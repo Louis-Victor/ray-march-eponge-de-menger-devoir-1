@@ -75,3 +75,6 @@ src/
 # Temporary files
 tmp/
 temp/
+
+*glm/
+*stb_image.h
