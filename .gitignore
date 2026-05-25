@@ -1,2 +1,77 @@
-bin
-obj
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# Compiled objects
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Ninja
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Autotools
+autom4te.cache/
+aclocal.m4
+configure
+config.log
+config.status
+
+# Meson
+.mesonpy-native-file.ini
+.mesonpy-write-testfile.ini
+meson-private/
+meson-logs/
+meson-info/
+
+# Debuggers / profilers
+vgcore.*
+gmon.out
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GLFW / OpenGL generated screenshots or dumps
+screenshots/
+captures/
+
+# Logs
+*.log
+
+# Shader cache / generated assets
+cache/
+*.cache
+
+# User-specific configuration
+.env
+local.config
+
+# Arch Linux / package artifacts
+pkg/
+src/
+
+# Temporary files
+tmp/
+temp/
