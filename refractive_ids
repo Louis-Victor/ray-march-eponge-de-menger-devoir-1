@@ -1,0 +1,15 @@
+// refractive indices
+const float AIR = 1.000293;
+const float HELIUM =1.000036;
+const float HYDROGEN = 1.000132;
+const float CO2 = 1.00045;
+const float WATER = 1.333;
+const float OLIVE_OIL = 1.47;
+const float ICE = 1.31;
+const float QUARTZ = 1.46;
+const float ACRYLIC = 1.49;
+const float PLEXIGLASS = 1.49;
+const float GLASS = 1.52;
+const float SAPPHIRE = 1.77;
+const float DIAMOND = 2.417;
+const float MOISSANITE = 2.65;
